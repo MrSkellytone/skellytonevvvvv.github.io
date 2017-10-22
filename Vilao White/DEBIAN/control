@@ -1,0 +1,10 @@
+Package: com.mrskelly.vilaowhite
+Name: Vilao White
+Version: 1.0-1
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Description: Minimalist look for those looking for a white setup.
+Homepage: "'More Information' on the Details page
+Maintainer: Skellytone <petrescutiberiu@gmail.com>
+Author: Skellytone
+Section: Themes
